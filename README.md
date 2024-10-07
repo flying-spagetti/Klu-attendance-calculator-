@@ -12,7 +12,6 @@ The **KLU Attendance Calculator** is a web application designed to help students
   - **Practical**
   - **Skill Sessions**
 - Simple and intuitive UI for easy attendance tracking.
-- Real-time updates to ensure accurate calculations based on attended and missed classes.
 
 ## Tech Stack
 
