@@ -2,7 +2,7 @@
 
 ## About the Project
 
-The **KLU Attendance Calculator** is a web application designed to help students of KLU (Koneru Lakshmaiah University) accurately calculate their attendance percentage. With its user-friendly interface, students can easily track their attendance for lectures, tutorials, practicals, and seminars, ensuring they meet the university's attendance requirements.
+The **KLU Attendance Calculator** is a web application designed to help students of KLU (Koneru Lakshmaiah University) accurately calculate their attendance percentage. With its user-friendly interface, students can easily track their attendance for lectures, tutorials, practicals, and skill sessions, ensuring they meet the university's attendance requirements.
 
 ## Features
 
