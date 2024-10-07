@@ -220,7 +220,7 @@ const AttendanceCalculator = () => {
 
         <Card className={`mt-8 ${darkMode ? 'bg-gray-700 text-white' : 'bg-white'} shadow-lg transition-colors duration-300`}>
           <CardHeader>
-            <p className="text-2xl font-bold flex items-center">This Calculation component is still under testing..</p>
+            <p className="text-2xl font-bold flex items-center">This Calculation component is yet to finalise in the coming two days..</p>
             <CardTitle className={`text-2xl font-bold ${darkMode ? 'text-white' : 'text-[#A41D24]'} flex items-center`}>
               <Book className="mr-2" /> Attendance Information
             </CardTitle>
