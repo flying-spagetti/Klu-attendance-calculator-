@@ -1,8 +1,9 @@
 {
+  "homepage": "https://flying-spagetti.github.io/klu-attendance/",
   "name": "klu-attendance",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://flying-spagetti.github.io/klu-attendance/",
+  
   "scripts": {
     "dev": "next dev",
     "build": "next build",
