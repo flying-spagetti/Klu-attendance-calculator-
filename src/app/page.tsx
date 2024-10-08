@@ -46,13 +46,13 @@ const Footer: React.FC<{ darkMode: boolean }> = ({ darkMode }) => (
         <span> 2200031247</span>
       </p>
       <div className="flex justify-center mt-2">
-        <a href="https://twitter.com/gnaneswarlopinti" className="mr-4" target="_blank" rel="noopener noreferrer">
+        <a href="https://x.com/ImGnAn_30" className="mr-4" target="_blank" rel="noopener noreferrer">
           <TwitterIcon className="text-white hover:text-gray-300" />
         </a>
-        <a href="https://linkedin.com/in/gnaneswarlopinti" className="mr-4" target="_blank" rel="noopener noreferrer">
+        <a href="https://www.linkedin.com/in/gnaneswar-lopinti-5bb480109?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" className="mr-4" target="_blank" rel="noopener noreferrer">
           <LinkedinIcon className="text-white hover:text-gray-300" />
         </a>
-        <a href="https://github.com/gnaneswarlopinti" className="mr-4" target="_blank" rel="noopener noreferrer">
+        <a href="https://github.com/flying-spagetti" className="mr-4" target="_blank" rel="noopener noreferrer">
           <GithubIcon className="text-white hover:text-gray-300" />
         </a>
       </div>
